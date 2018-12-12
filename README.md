@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+12/12/18
 
 ### Student Name:  
-(First and Last Name)
+Cameron Chisolm
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This program uses an APi and APi key to print to the user a 10 day weather forecast 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://cchisolm.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that the API's allows the public access to the Web-based software application provided by software companies so other software developers can design products that are powered by their services
+2. I learned that AJAX allows users access to load data to the server without refreshing.
+3. I learned that JSON allows users to format data in a much more organized way and that it makes reading data a lot easier.
+4. I learned that anyone can get an API key for software companies that they use to track users and how they are using their API.
+5. I learned that the typoghrapht makes the site easier on the eyes.
 
